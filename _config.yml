@@ -1,0 +1,20 @@
+# Site settings
+author: Akiva Neuman
+title: My first Data Science project
+header-img: img/home-bg.png
+email: neuman.akiva@yahoo.com
+copyright_name: Akiva Neuman
+description: > # this means to ignore newlines until "baseurl:"
+  Project 1
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  akiva123
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
