@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Looping Through Cloections"
-date:       2020-12-17 18:17:52 +0000
+title:      "Looping Through Colections"
+date:       2020-12-17 13:17:53 -0500
 permalink:  looping_through_cloections
 ---
 
