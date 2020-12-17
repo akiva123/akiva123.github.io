@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Looping Through Colections"
+title:      "Looping Through Collections"
 date:       2020-12-17 13:17:53 -0500
 permalink:  looping_through_cloections
 ---
