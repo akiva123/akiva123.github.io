@@ -5,7 +5,7 @@ date:       2020-12-22 15:39:28 -0500
 permalink:  sql_tutorial
 ---
 
-In this tutorial we will cover the main statements use in SQL. First, let's create two tables.
+In this tutorial we will cover the main statements used in SQL. First, let's create two tables.
 
 CREATE a(
   id INT,
